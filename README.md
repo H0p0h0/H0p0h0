@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Software 
 - 🌱 I’m currently learning ...Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...you can't inquiry i will find you;)
+- 📫 How to reach me ...you can't inquiry i will find you//Twitter// nikushaio <<
 
 <!---
 H0p0h0/H0p0h0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
